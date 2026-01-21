@@ -1,0 +1,226 @@
+Så används Svenska Akademiens ordböcker på nätet. 
+Implicit och explicit feedback från användarna 
+Erik Bäckerud, Pär Nilsson & Emma Sköldberg
+This study presents and analyses search strings and user data for different 
+Swedish lexicographical websites. The underlying empirical material was 
+sourced from two relatively new websites, www.saob.se and the joint dictionary portal www.svenska.se, which collects and provides a single point 
+of entry to three Swedish monolingual dictionaries financed by the Swedish 
+Academy. Statistics are presented on the most common search strings, when 
+and where the searches take place, and what devices and digital platforms 
+that are commonly used while visiting the sites. In addition, the study addresses a number of questions and other forms of feedback received from 
+dictionary users. Furthermore, the study provides suggestions and examples 
+of how the collected data can be utilised in upcoming updates and revisions 
+of the dictionaries.
+1. Inledning 
+I mars 2016 lanserades den nya webbplatsen för Svenska Akademiens ordbok 
+www.saob.se och i september 2017 blev ordboksportalen www.svenska.se publik. I den senare går det att söka i tre ordböcker på en gång, SAOL14 (2015), 
+SO (2009) och SAOB (1898–). Sedan lanseringarna av webbplatserna har antalet sökningar stadigt ökat, men hur utnyttjar användarna egentligen Svenska 
+Akademiens verk? I den här artikeln granskas och jämförs statistik över hur 
+sökningarna i Akademiens ordböcker utförs. Dessutom analyseras frågor och 
+synpunkter som skickats in till ordboksredaktionerna från användarna. Syftet är 
+därmed att kartlägga var, när och hur Akademiens ordböcker används på nätet. 
+Resultaten av studien är relevanta inte bara för ordboksredaktörer och för dem 
+som forskar om ordboksanvändning, utan även för lexikologer och språkvetare 
+på ett allmännare plan. Resultaten är förstås även viktiga vid revideringar av 
+de tre ordböckerna och vid utvecklingen av en ny version av ordboksportalen 
+svenska.se.
+92 Bäckerud, Nilsson & Sköldberg
+1.1. Metod och material 
+Webbenkäter, intervjuer, loggfiler m.m. kan användas när man vill närma sig 
+ordboksanvändare, och exempelvis Tarp (2008) konstaterar att en kombination 
+av undersökningsmetoder är att föredra om man vill kunna dra så långtgående 
+slutsatser som möjligt av sina resultat. I studien som ligger till grund för föreliggande artikel har därför olika metoder utnyttjats, och tre olika delstudier har 
+genomförts. Först har allmän statistik över nättrafiken granskats, dvs. sådan som 
+ringar in allmänna mönster om hur ordböckerna används, tid och plats för sökningarna och frekventa sökord m.m. (se avsnitt 2.1 nedan). Därefter har de mest 
+frekventa söksträngarna som inte leder till träff i någon av ordböckerna, s.k. 
+icke-träffar, analyserats (avsnitt 2.2). Slutligen har frågor och synpunkter som 
+skickats in från användarna till redaktionerna via kontaktformulären på webbplatserna studerats (avsnitt 2.3). Föremålet för studierna representerar vad Abel 
+& Meyer (2013) kallar implicit feedback (delstudie 1–2) och explicit feedback
+(delstudie 3).
+Materialet i samtliga delstudier utgörs av feedback från år 2018. I några fall 
+lyfts en särskild vecka från detta år fram (nämligen vecka 50, dvs. 10–16 december) för att illustrera ordboksanvändning under en kortare period (se vidare 
+avsnitt 2.1).
+1.2. Tidigare studier
+Det finns endast ett fåtal tidigare användarstudier som behandlar Svenska Akademiens ordboksmaterial. Rogström (2001) undersöker loggfiler för SAOB:s 
+äldre webbplats (den s.k. OSA-versionen), Törnqvist (2010) diskuterar kortfattat 
+e-postbrev till SAOL-redaktionen och Holmer, Hult & Sköldberg (2015) undersöker, med hjälp av en webbenkät, hur SAOL-appen används. I övrigt är utbudet 
+magert. Det finns således en tydlig lucka för vår studie att fylla. Den kan även 
+sägas komplettera större användarstudier som har genomförts på senare tid både 
+inom och utanför Norden (se t.ex. Müller-Spitzer (ed.) 2014, Trap-Jensen, Lorentzen & Sørensen 2014, Hult 2016, Wolfer et al. 2018 och Kallas et al. 2019, 
+för att bara nämna några).
+
+2. Resultat och analys
+I det följande presenteras de tre delstudierna i tur och ordning.
+2.1. Allmän nättrafik – när, var, hur och vilka ord?
+Den statistik som ligger till grund för föreliggande avsnitt har tagits fram med 
+verktyget Google analytics och avser s.k. besök.
+1
+ I genomsnitt läser en användare 
+på saob.se ca 2 sidor under ett besök och på svenska.se ca 4 sidor per besök.
+Total sett hade saob.se under hela 2018 ca 1,8 miljoner besök och svenska.se 
+ca 2,5 miljoner besök. För vecka 50 uppgick antalet besök per dag till ca 6 800 
+på saob.se och 9 000 på svenska.se.2
+ Under denna vecka noterades besök från 
+96 olika länder på svenska.se. De flesta av dessa kom, föga förvånande, från 
+Sverige, men påfallande många härrörde från Finland (drygt 8 procent av alla 
+besök). Användningen av båda webbplatserna har stadigt ökat sedan starten, och 
+när 2019 års statistik ska summeras kommer antalet besök (med dagens takt) 
+uppskattningsvis att ha ökat med 45 procent sedan 2018. För att få ett referensvärde och för att sätta ovanstående statistik i ett sammanhang, har en jämförelse 
+med de danska ordböckerna på ordnet.dk genomförts. Under vecka 50, 2018 
+hade DDO ca 142 000 besök per dag, vilket är betydligt fler än de sammanlagda 
+besöken hos saob.se och svenska.se. (Dock har användningen av mobilappar 
+inkluderats i statistiken från ordnet.dk, vilken alltså exkluderats i föreliggande 
+studie; jfr fotnot 2 nedan.) Intressant att notera är att SAOB:s systerordbok, ODS, 
+liksom SAOB hade ca 6 800 besök per dag under samma period.3
+Webbplatserna skiljer sig åt när det gäller läsarnas användning av dator (stor 
+skärm) eller mobil enhet. Till saob.se kommer majoriteten av besöken från mobiler medan det omvända gäller för svenska.se. Båda webbplatserna är anpassade 
+för mobila enheter. En undersökning av bruket under vecka 50 visar att användarna av svenska.se som sagt främst utnyttjar datorer (stor skärm), men detta 
+gäller i huvudsak under vardagarna. Bruket av stor skärm minskar tydligt på 
+helgen (se figur 1 nedan). Användningen av mobila enheter är däremot ungefär 
+lika stor under veckans alla dagar.
+
+De flesta besökare kommer till de båda webbplatserna genom någon sökmotor 
+på internet, företrädesvis Google. Hela 86 procent av besöken på saob.se sker 
+via en sökmotor. För svenska.se är motsvarande siffra drygt 50 procent. Detta är 
+inte alls förvånande då saob.se är väl indexerad av Google – söker man efter ett 
+ord som är lågfrekvent i allmänspråket kommer ofta SAOB:s artiklar upp bland 
+de första svaren. Detsamma gäller inte för svenska.se i lika hög grad (i synnerhet 
+eftersom SAOL och SO innehåller betydligt färre uppslagsord än SAOB).
+Av tabell 1 nedan framgår för det första de vanligaste söksträngarna i 
+saob.se och i svenska.se under hela 2018 (de två vänstra spalterna i tabellen), och 
+för det andra de vanligaste söksträngarna som gett träff under vecka 50 samma 
+år (de högra spalterna).
+
+Som synes skiljer sig sökorden tydligt åt med avseende på vilken webbplats man 
+söker på. Topporden i saob.se – både under hela 2018 och under vecka 50 – utgörs i stor utsträckning av substantiviska, tämligen specifika (och i allmänspråket 
+ovanliga) sammansättningar, som t.ex. antilopfamiljen och snotterbär.
+De återkommande söksträngarna på svenska.se under de två undersökta perioderna består nästan uteslutande av enkla ord, och flera av söksträngarna (t.ex. man
+och var) är homografa. Det är förstås omöjligt att utifrån rena loggfiler veta vilka 
+ord användarna i själva verket haft för avsikt att söka information om och om 
+de blev tillfredsställda med de uppgifter de fick fram (jfr Tarp 2008:22). Båda 
+listorna för svenska.se innehåller dock flera högfrekventa, oregelbundna och 
+polysema verb (se t.ex. få, gå, vara), vilket möjligen indikerar att sökningarna 
+sker i produktionssyfte snarare än receptionssyfte. Av sökningarna på svenska.se 
+framgår det också tydligt att vecka 50 är Lucia-veckan. De ålderdomliga orden 
+fjät och stuva ingår i luciasången och många bakar dessutom lussekatter inför 
+jul. Dessa 10-i-topp-listor stöder således Wolfer et al.:s (2014:286–289) slutsatser att antalet sökningar på enskilda ord varierar över tid, att sökfrekvenser 
+kan spegla händelser i det omgivande samhället samt att användarna slår upp ord 
+som är frekventa i allmänspråket (vilket motsäger resultaten från de Schryver et 
+al. 2006). Precis som i saob.se-listan från hela 2018 finner man i motsvarande 
+svenska.se-lista söksträngen hej, en interjektion som tycks vara lite av ett testord i 
+olika svenska webbordböcker (se t.ex. Hult 2016 om de vanligaste sökorden i Lexins 
+svenska lexikon). Värt att notera är även att pronomenet hen hamnar i topp 10 på 
+svenska.se. Detta ord gjorde på allvar sitt inträde i svenska ordböcker genom 
+SAOL14 (2015) och det tycks fortfarande väcka stort intresse.
+Det är ofta svårt att avgöra varför vissa söksträngar har varit populära och särskilt saob.se-sökningarna förvånar. Många av dem tycks emellertid vara kopplade 
+till korsordsanvändning, och av de olika länkar som leder till saob.se att döma 
+kommer många användare från olika korsordssajter. Ett ord som var mycket populärt under vecka 50 i saob.se är exempelvis barometerglas. Just det substantivet 
+ingick i Mästarkrysset (vilket tillhandahålls av Aller media) under den aktuella 
+perioden och det diskuterades sedan på korsordsforumet webbkryss.nu. 
+2.2. Återkommande icke-träffar 
+Ur loggfilerna kan man ta fram listor med söksträngar som inte har lett till träff 
+i ordböckerna, s.k. icke-träffar. Sådana listor är mycket användbara vid revideringar av ordböckers lemmalistor (se Hult 2016:95, 155 med anförda referenser). 
+För att avgränsa oss diskuterar vi i det följande de 500 vanligaste icke-träffarna 
+under 2018 i SO, dvs. den av de tre ordböckerna som uppdateras just nu.
+96 Bäckerud, Nilsson & Sköldberg
+Bland söksträngarna finns det en stor mängd återkommande, till synes tillfälliga, (två)bokstavskombinationer som är obegripliga för oss, t.ex. ox (622 sökningar), ga (548) och sä (263).4
+ Vidare finns det en del böjningsformer (t.ex. 
+dåligare, 88) och flerordsuttryck (t.ex. på grund av, 364) som är upptagna i SO, 
+men som användarna ändå inte fått träff på. Även ett stort antal förkortningar 
+påträffas här (t.ex. ca, 878). Dessa icke-träffar ger således nyttig information 
+om hur sökfunktionerna på webbsidan kan förbättras. Det finns också flera, mer 
+lexikologiskt intressanta icke-träffar. För det första utgörs en stor andel av dem 
+av svenska ord, varav några är ganska nyetablerade, t.ex. funktionsvariation
+(136) och filterbubbla (93). Vissa av dessa ord har en slangartad prägel (t.ex. 
+jalla, 304). För det andra finns det engelskklingande ord och förkortningar, och 
+frågan är om de numera också har konventionaliserats i svenskan. Detta gäller i 
+synnerhet ursprungligen engelska ord med försvenskad stavning (jfr t.ex. najs, 
+332, med cringe, 481). Det finns också, utifrån de stavningssätt som anges i 
+SO och SAOL14, ett antal felstavade ord i materialet, t.ex. priviligerad (1778), 
+mail (1242) och orginal (260). Dessa icke-träffar illustrerar den gränsdragningsproblematik som så ofta är närvarande vid ordboksarbete. Eventuellt hör dessa 
+ord inte hemma i en normativ ordlista som SAOL, men kanske ska de behandlas 
+i en deskriptiv ordbok av SO:s slag? (se Sköldberg 2017). Slutligen finns det 
+också flera egennamn (t.ex. Zlatan, 109, och Fortnite, 105) i materialet. Dessa 
+pekar på att den traditionella svenska arbetsfördelningen mellan allmänna ordböcker, namnlexikon och encyklopedier när det gäller beskrivningen av proprier 
+inte alltid upplevs som helt självklar – eller adekvat – bland användarna (se vidare bl.a. Trap-Jensen & Lorentzen 2017 om sökningar på namn i DDO).
+2.3. Explicit feedback från användarna
+Som en sista delundersökning har frågor och synpunkter som kommit in från 
+ordboksanvändarna analyserats. Samtliga meddelanden som via kontaktformulär på de olika webbsidorna har skickats till redaktionerna under hela 2018 har 
+granskats och sorterats i olika kategorier.
+Efter att spam, nonsens- och redaktionsinterna meddelanden räknats 
+bort återstår sammanlagt 85 meddelanden skickade till saob.se och 311 till 
+svenska.se. Dessa har vart och ett kunnat föras till någon av nedanstående fem 
+kategorier (se tabell 2).
+
+För både svenska.se och saob.se gäller ofta (inte oväntat) att användare kommenterar eller frågar om ett specifikt ord (se kategori 1 i tabell 2). Cirka 1/3 
+av meddelandena handlar om detta, och det är den enskilt största kategorin av 
+meddelanden för svenska.se. Främst undrar användarna varför ett ord inte finns 
+med i ordboken (lemmalucka). Inte sällan handlar det om nya ord som ännu inte 
+hunnit komma med i aktuella upplagor, och ofta är orden som efterfrågas också 
+rimliga (utifrån gällande urvalsprinciper) att ta med i framtiden. Flera kommentarer handlar dock om ord, uttryck eller betydelser som i själva verket finns med 
+i det aktuella verket. Användaren har då i regel sökt på böjda former av ord eller 
+skrivit in flerordsförbindelser i sökrutan och därmed inte fått träff (jfr avsnitt 2.2 
+om icke-träffar ovan). Detta är, som redan påpekats, ett tydligt område att arbeta 
+vidare med. Redan nu finns en ”Menade du”-funktion, som vid en icke-träff ger 
+förslag på stavningsmässigt närliggande ord, men den fungerar dåligt för flerordsförbindelser. I fråga om böjda ord har SAOL kommit längst, med samtliga 
+böjningsformer lemmatiserade. Detsamma gäller inte för SO eller SAOB.
+Till kategori 2 hör strukturella och tekniska frågor kring hur ordböckernas 
+information är strukturerad och hur beskrivningsspråket ska tolkas. Användarna 
+vill ofta ha hjälp med att uttyda uttalssystemen eller SAOB:s många förkortningar (inte minst i etymologiparenteserna). Hit har också förts frågor och kommentarer om hur man söker fram en viss informationstyp, exempelvis: ”Jag vill 
+söka fram alla andra konjugationens verb”, eller ”Hur får jag tag i alla ord som 
+98 Bäckerud, Nilsson & Sköldberg
+etiketterats som ’nedsättande’?”. Flera frågor handlar även om att man vill kunna 
+ladda ner hela ordboksinnehåll (vanligen SAOL:s) för att använda i egenkonstruerade appar eller liknande.
+Till svenska.se vänder sig också användare för att få vägledning i normerande 
+frågor (kategori 3 i tabell 2). Anledningen är rimligen att SAOL återfinns i den 
+portalen och att ordlistan beskrivs som den inofficiella normen för svensk stavning och böjning. Ett exempel på en sådan fråga är: ”’rookies’ anges i SAOL som 
+pluralform till ’rookie’, men är -s verkligen en svensk pluraländelse?”. Motsvarande meddelanden skickas inte till saob.se.
+Ibland ger de olika ordböckerna på svenska.se olika bud gällande samma 
+uppslagsord. Exempelvis anger SAOL driftskostnad (med fog-s) som uppslagsform, medan SO anger driftkostnad (utan fog-s). SAOB upptar båda formerna. 
+Denna typ av skillnader mellan verken kan förvirra användarna, vilket en avsändare påpekar: ”Vad heter det egentligen? Bestäm er!”.
+Den klart största andelen meddelanden som skickats till saob.se handlar om 
+fel eller ändringsförslag i artiklarna (se kategori 4 i tabell 2). Det gäller då skriveller stavfel, rena sakfel eller andra fel beträffande innehållet snarare än formen. 
+Väldigt många kommentarer till såväl saob.se som svenska.se har att göra med 
+SAOB:s föråldrade metaspråk. Allra vanligast är kommentarer gällande SAOB:s 
+stavning av kort ä-ljud (dvs. ä i ord som idag stavas med e, t.ex. värksamhet, rägn
+och pängar). Den typen av stavningar användes i ordbokens definitioner ända 
+fram till 1960-talet. Som en direkt följd av denna feedback inleds numera (sedan 
+januari 2019) kontaktformuläret på saob.se med en upplysning om ordbokens 
+stavningsprinciper i detta avseende. 
+Många synpunkter och frågor av innehållsmässigt slag rör också kontroversiella ord. Vissa definitioner är inte politiskt korrekta idag och vissa språkexempel 
+är olyckligt formulerade. Ett exempel som sticker ut i det här avseendet är språkprovet ”mesig tjejfotboll” som återfinns under uppslagsordet mesig i SO och 
+som många användare har reagerat på. Kritiken plockades upp i riksmedia och 
+även Svenska Fotbollförbundet har protesterat mot formuleringen i verket (se 
+t.ex. Svenska Dagbladet 19/2 2018). Just detta språkexempel har ändrats inför 
+kommande upplaga av SO. Ändringen är dock inte synlig för användarna ännu 
+eftersom svenska.se inte uppdateras löpande.
+Kategori 5, Övrigt, utgörs av sådana meddelanden som inte kunnat föras till 
+någon av de fyra övriga grupperna. I flera fall handlar det om allmänna berömmande eller kritiserande kommentarer.
+
+3. Sammanfattning och framåtblickar
+Av den feedback som presenterats och diskuterats ovan kan vi dra några slutsatser och peka på ett par möjliga utvecklingslinjer. För det första har Svenska 
+Akademiens ordböcker på nätet potential att nå ut till fler. Sedan lanseringen 
+av webbplatserna har antalet besök stadigt ökat, och framför allt borde 
+svenska.se i mobilen ha potential att användas mer (inte minst visar jämförelsen 
+med den danska användarstatistiken att detta är möjligt). Vidare bör ordboksredaktörerna tillmötesgå användarna i större utsträckning – t.ex. kan böjda former, 
+avledningar och flerordsförbindelser göras sökbara i ännu högre grad. Det går 
+också att förtydliga vilka funktioner de tre ordböckerna på svenska.se är tänkta 
+att fylla. När ordböckerna beskriver samma ord eller betydelse på olika sätt blir 
+det i nuläget ibland otydligt för användarna. Det måste således t.ex. framgå att 
+SAOL är mer normativ än de andra två verken.
+Meddelanden till redaktionerna tydliggör också att mycket av beskrivningsspråket i ordböckerna är svårt att förstå. Framför allt gäller detta i SAOB:s artiklar. Med hjälp av feedbacken blir det klarare i vilken ände man rimligen ska 
+börja när tiden har kommit för revidering av den historiska ordboken. Även de 
+mest akuta fallen, som ofta rör artiklar med kontroversiella ord, går att ringa in 
+med hjälp av användarnas synpunkter. När nätordböckerna så småningom inte 
+längre speglar innehållet i tryckta versioner av samma verk (något som i nuläget 
+fortfarande gäller för samtliga ordböcker på svenska.se) finns möjligheten att 
+revidera kontinuerligt och att uppdatera webbsidorna fortare. 
+Studiet av loggfilerna som rör svenska.se bekräftar Wolfer et al.:s (2014) iakttagelse att ordboksanvändare tenderar att slå upp frekventa och socialt relevanta 
+ord. I dagsläget finns på saob.se både ett länkat Instagram-konto och funktionen 
+”Dagens ord”, vilken slumpvis väljer ut och lyfter fram ett ord ur ordboken. Det 
+vore rimligt att införa motsvarande s.k. ”add-on-material” även på svenska.se, 
+där man dessutom kunde tänka sig att regelbundet lyfta fram utvalda grupper av 
+tillfälligtvis aktuella ord (se vidare Holmer, von Martens & Sköldberg 2015 om 
+tankarna bakom Dagens ord i SO-appen).
+Avslutningsvis kan det konstateras att de två webbsidor som diskuteras i föreliggande artikel båda är relativt unga, och att dra nytta av feedback från användarna blir därför också till stora delar en ny erfarenhet för de olika ordboksredaktionerna. Användarnas synpunkter kommer utan tvekan att bli värdefulla inför 
+kommande revideringar.

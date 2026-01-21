@@ -1,0 +1,20 @@
+Help me plan a Python coding project.
+I want to create a program that reads textfiles and 
+constructs a table of N-grams. The length of the N-gram 
+strings should be specified on the command line.
+The program must store the nmuber of occurences for each n-gram.
+If you specify 1 as the length the table will simply show the frequency of each single letter in the text.
+If you specify 2 then each pair of adjacent letters will be recorded and so on.
+Initially it is enough if the program records the data and
+prints out tha table of N-grams at the end.
+When processing the input every character should be converted to lower case.
+The program should work with international characters like å, ä, ö etc. Encoded in UTF-8.
+Punctuation should be converted to spaces. Any sequence of two or more spaces should be treated as a single space.
+
+Example:
+Input: "banana"
+N=1: b:1, a:3, n:2
+N=2: ba:1, an:2, na:2
+N=3: ban:1, ana:2, nan:1
+
+Don't write any code just yet, just give me the plan including data structures and algorithms/methods to be used.
