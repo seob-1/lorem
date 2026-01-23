@@ -1,5 +1,5 @@
 # N-gram generator
-Ipsum lorem and what not. 
+Lorem ipsum and what not. 
 
 
 ## Usage
