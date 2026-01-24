@@ -16,7 +16,7 @@ Input is from the named file argument or stdin if no file is given.
 
 ### Example:
 
- `python3 ngram.py 4 text/english.txt | python3 lorem.py 1000`
+ `python3 ngram.py 4 text/english.txt | python3 lorem.py 500 | fold -s -w 75`
 
 ## Sources
 - https://americanliterature.com/100-great-short-stories/
