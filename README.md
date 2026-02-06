@@ -23,6 +23,7 @@ Input is from the named file argument or stdin if no file is given.
 - https://larare.at/svenska/moment/novellasning/50_noveller.html
 - https://la.wikisource.org/wiki/Commentarii_de_bello_Gallico
 - https://lingua.com/italian/reading/
+- https://www.fourmilab.ch/etexts/www/Vulgate/
 
 ## Author
 Erik Bäckerud
